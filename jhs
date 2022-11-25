@@ -1,0 +1,25 @@
+[33mcommit c909d2b84da69240877b1d8b7ae1e73f303f4c54[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 60c195a 10794c5
+Author: Ankit Chavan <ankitchavan123.ac@gmail.com>
+Date:   Wed Nov 23 12:43:36 2022 +0530
+
+    Merge branch 'newBranch2'
+    This is merge for Branch2
+
+[33mcommit 10794c5e1adb123a4f3363d6a75019137a820f2e[m[33m ([m[1;32mnewBranch2[m[33m)[m
+Author: Ankit Chavan <ankitchavan123.ac@gmail.com>
+Date:   Wed Nov 23 12:42:23 2022 +0530
+
+    OKK
+
+[33mcommit 60c195ae2a783aaa81da168eaab611e61f7bac5c[m[33m ([m[1;32mnewBranch1[m[33m)[m
+Author: Ankit Chavan <ankitchavan123.ac@gmail.com>
+Date:   Wed Nov 23 12:40:40 2022 +0530
+
+    This is commit from branch 1
+
+[33mcommit d4f57af666a697ce9aaaa5c743cc366931f38cdd[m
+Author: Ankit Chavan <ankitc7325@gmail.com>
+Date:   Wed Nov 23 10:19:20 2022 +0530
+
+    My first commit for txt
